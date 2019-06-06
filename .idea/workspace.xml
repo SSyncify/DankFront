@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c13625bf-ea4f-444b-ae34-2755d0bee042" name="Default Changelist" comment="" />
+    <list default="true" id="c13625bf-ea4f-444b-ae34-2755d0bee042" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LandingAssets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LandingAssets/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,13 +18,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LandingAssets/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="91" column="66" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="66" />
+            <state relative-caret-position="242">
+              <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ank Ap</find>
+      <find>dank</find>
+      <find>synci</find>
+      <find>syncify</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,6 +71,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,11 +105,12 @@
       <workItem from="1559790924902" duration="77000" />
       <workItem from="1559791258694" duration="97000" />
       <workItem from="1559791377581" duration="36000" />
+      <workItem from="1559791500987" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210000" />
+    <option name="totallyTimeSpent" value="354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1413" height="810" extended-state="0" />
@@ -130,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LandingAssets/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="91" column="66" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="66" />
+        <state relative-caret-position="242">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
         </state>
       </provider>
     </entry>
